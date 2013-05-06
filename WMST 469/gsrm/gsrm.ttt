@@ -1,0 +1,23 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[!htbp]
+\caption{Quantitative representations of GSMRs in non-continuity webcomics}
+\label{quantitative}
+    \begin{tabular}{l|llll}
+    ~                               & xkcd     & PA       & C\&H      & SMBC      \\ \hline
+    Number of strips reviewed       & 157      & 157      & 346      & 366       \\ \hline
+    \# of strips with Women          & 48       & 27       & 115      & 236       \\
+    Woman as Professional (\%)       & 14 (29\%) & 3 (11\%)  & 2 (2\%)   & 82 (34\%)  \\
+     Woman as Neutral Agent (\%)     & 36 (75\%) & 12 (44\%) & 62 (53\%) & 148 (62\%) \\
+    Woman as Object (\%)             & 1 (2\%)   & 9 (33\%)  & 30 (25\%) & 15  (6\%)  \\
+    Woman as Incidental Mention (\%) & 0 (0\%)   & 3 (11\%)  & 17 (15\%) & 6 (3\%)    \\ \hline
+    \# of strips with gays/lesbians  & 1        & 8        & 13       & 19        \\
+    Neutral (\%)                     & 1 (100\%) & 1 (12\%)  & 2 (15\%)  & 16 (84\%)  \\
+    Joke/Othered (\%)                & 0 (0\%)   & 7 (88\%)  & 11 (84\%) & 3 (16\%)   \\ \hline
+    \# of strips with other GSMRs    & 2        & 4        & 7        & 6         \\
+    Neutral (\%)                     & 2 (100\%) & 0 (0\%)   & 0 (0\%)   & 3 (50\%)   \\
+    Joke/Othered (\%)                & 0 (0\%)   & 4 (100\%) & 7 (100\%) & 3 (50\%)   \\
+    \end{tabular}
+\end{table*}
+\efloatseparator
+ 
